@@ -1,0 +1,1 @@
+Hoy estoy haciendo la integración de Git con VSCode y la configuración de el editor para evitar errores tontos.
