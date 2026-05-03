@@ -9,5 +9,5 @@ print(f"Python: {sys.version}")
 print(f"Ejecutable: {sys.executable}")
 print(f"Pandas versión: {pd.__version__}")
 
-datos = pd.DataFrame({"dia": [1, 2, 3, 4], "completado": [True, True, True, True]})
+datos = pd.D ataFrame({"dia": [1, 2, 3, 4], "completado": [True, True, True, True]})
 print(datos)
