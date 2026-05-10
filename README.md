@@ -6,8 +6,8 @@ Python, Revit API e IA aplicada al sector AECO.
 ## Estructura
 - `/bloque-1/` — Cimientos: Python, Pandas, ifcopenshell, Dynamo.
 - `/bloque-2/` — Automatización, Revit API, IA aplicada.
-- `/bloque-3/` — Portfolio y mercado.
-- `/bloque-4/` — Cierre del programa.
+- `/bloque-3/` — Casos prácticos, documentación técnica, divulgación.
+- `/bloque-4/` — Proyectos integradores, consolidación y cierre.
 
 ## Contexto
 Arquitecto BIM con 5 años de experiencia. Empiezo desde cero con programación.
