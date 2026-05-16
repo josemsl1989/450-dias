@@ -1,7 +1,9 @@
 # Clasificador tonto de elementos por altura (en metros)
-altura = 2.6  # cambia este valor y vuelve a ejecutar
+altura = -2.6  # cambia este valor y vuelve a ejecutar
 
-if altura < 1.0:
+if altura < 0:
+    categoria = "Valor inválido"
+elif altura < 1.0:
     categoria = "Mobiliario bajo"
 elif altura < 2.2:
     categoria = "Mobiliario alto / puerta estándar"
