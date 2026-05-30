@@ -1,3 +1,6 @@
+# dia_10_clasificador_muros.py — Clasificador básico de muros con if/elif/else.
+# Clasificador de muros en función de su espesor
+
 espesor = 0.55      # en metros
 material = "hormigon"
 altura = 4.20       # en metros
